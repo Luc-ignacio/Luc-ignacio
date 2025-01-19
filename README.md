@@ -5,8 +5,11 @@ Welcome to my Github space! I’m a **problem-solving navigator**, steering thro
 ## 📸 A Snapshot of My Journey  
 
 🔧 **Marine Engineer turned Software Developer** – A foundation built on precision, systems thinking, and adaptability.  
+
 📍 **Based on the Gold Coast, Australia** – Embracing a lifestyle of innovation and creativity.  
+
 🌱 **Currently Growing** – Sharpening my full-stack skills while collaborating on impactful projects.  
+
 💡 **Philosophy** – A strong believer in blending technical finesse with user empathy for purposeful software.<br><br>
 
 ## 🧰 My Tech Toolkit  
